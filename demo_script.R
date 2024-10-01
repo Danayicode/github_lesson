@@ -1,4 +1,4 @@
 #headline
 
-x <- rnorm(300)
-y <- rnorm(300)
+x <- rnorm(500)
+y <- rnorm(500)
