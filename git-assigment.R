@@ -142,3 +142,4 @@ lm(cz ~ D - 1, data = Velocity) %>% summary()
 #include galaxies that are much further away. For which the gravitational forces
 #are less prominent
 
+changed are made
